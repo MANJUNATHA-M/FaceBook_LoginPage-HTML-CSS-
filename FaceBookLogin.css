@@ -1,0 +1,48 @@
+body {
+
+
+    background: linear-gradient(#c04c8d, #264eae);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+div {
+    margin-top: 60px;
+    margin-left: 500px;
+    background-color: white;
+    background-position: center;
+    width: 24vw;
+    height: 72vh;
+    padding: 10px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 5px;
+}
+
+div input {
+    margin-top: 3px;
+    margin-bottom: 6px;
+}
+
+button {
+    border: 2px solid white;
+    border-radius: 5px;
+    background: hotpink;
+    padding: 5px 75px 5px 75px;
+
+}
+
+a {
+    border: 1px solid rgba(50, 49, 49, 0.63);
+    padding: 4px 18px 4px 18px;
+    text-decoration: none;
+}
+
+span {
+    color: rgba(71, 68, 68, 0.521);
+}
